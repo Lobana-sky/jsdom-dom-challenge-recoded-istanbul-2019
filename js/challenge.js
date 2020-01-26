@@ -1,7 +1,7 @@
 
 let resumeBtn=document.getElementById('resume');
 resumeBtn.disabled=true;
-var count=0;
+var count=1;
 var timer;
 
 //timer 
